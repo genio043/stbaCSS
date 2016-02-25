@@ -682,3 +682,12 @@ content:'\f338'
 text-align:center;
 color:#47D1FF
 }
+
+/* adjust dashicon for Robert Valley Photoshop Course */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-14378 > a:before {
+content:'\f330'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-14379 > a:before {
+content:'\f118'
+}
