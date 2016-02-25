@@ -1,0 +1,684 @@
+@media screen and (max-width: 1060px) {
+#primary {
+width:67%
+}
+}
+
+/* making font responsive for mobile*/
+html {
+font-size:100%
+}
+
+/*@media (min-width: 640px) {
+bodyfont-size:1rem
+}
+
+@media (min-width:960px) {
+body {
+font-size:1.2rem
+}
+}
+
+*/
+@media (min-width:1100px) {
+bodyfont-size:1.5rem
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+#secondary {
+width:30%;
+margin-left:3%
+}
+}
+
+@media screen and (max-width: 768px) {
+#primary {
+width:100%
+}
+
+#secondary {
+width:100%;
+margin:0;
+border:none
+}
+}
+
+#responsive-menu-icon {
+cursor:pointer;
+text-align:center;
+height:20px
+}
+
+#navcontainer ul {
+list-style-type:none;
+margin:10px;
+padding:30px;
+list-style-type:none
+}
+
+#navcontainer ul li {
+display:inline-block;
+margin-left:30px
+}
+
+#navcontainer ul li:first-child {
+margin-left:0
+}
+
+.home-featured .home-widgets-1 {
+display:inline-block;
+display:table-cell;
+vertical-align:middle;
+width:100%;
+padding:200px 0;
+font-size:20px
+}
+
+.widgets-1,.footer-widgets-2,.footer-widgets-3 {
+width:300px
+}
+
+.site-footer .one-third .social-icons {
+list-style:none;
+margin:0;
+padding:0
+}
+
+.site-footer .social-icons li {
+display:inline-block;
+float:center
+}
+
+.site-footer .social-icons li + li {
+margin-left:10px;
+float:center
+}
+
+.button > :last-child {
+margin-bottom:0
+}
+
+ul.footer-links li {
+display:inline-block;
+margin-left:10px
+}
+
+ul.footer-links li:first-child {
+margin-left:0
+}
+
+a .button {
+padding:5px;
+background-color:#dcdcdc;
+border:1px solid #666;
+color:#000;
+text-decoration:none
+}
+
+p .section-description {
+color:#5dbcd2;
+font-size:14px;
+font-weight:600;
+letter-spacing:3px;
+line-height:1.75;
+text-transform:uppercase
+}
+
+.site-footer {
+padding:5px
+}
+
+.footer-widgets {
+padding-top:10px
+}
+
+.footer-widgets .footer-widgets a {
+display:inline-block
+}
+
+.social-icons li {
+display:inline-block;
+vertical-align:middle;
+margin:0;
+padding:0;
+float:center
+}
+
+.social-icons li + li {
+display:inline-block
+}
+
+.alignleft {
+float:left
+}
+
+.sidebar-content .sidebar {
+border:none;
+border-right:1px solid #e5e5e5;
+text-align:right;
+padding-top​:450px
+}
+
+.sidebar {
+border-left:1px solid #e5e5e5;
+font-size:16px;
+margin-bottom:0;
+padding:80px 0
+}
+
+.dashicons {
+color:#333333;
+font-size:60px;
+height:60px;
+width:60px
+}
+
+.button .element .style .input {
+background-color:#fff;
+border:0 solid #ddd;
+border-radius:3px;
+box-shadow:none;
+color:#2e2f33;
+font-size:16px;
+font-weight:300;
+line-height:1;
+padding:16px
+}
+
+.element .style {
+border:0
+}
+
+.genesis-nav-menu .member-menu a {
+display:none
+}
+
+.logged-in .genesis-nav-menu .member-menu a {
+display:block
+}
+
+element.style {
+width:700px
+}
+
+.site-header .widget-area {
+width:700px;
+padding:0
+}
+
+#nav-menu2 {
+width:700px
+}
+
+.widget-area .header-widget-area {
+width:700px
+}
+
+@media only screen and (max-width: 1023px) {
+.site-header .widget-area {
+width:100%
+}
+}
+
+.paypal-button input,.paypal-button select,.paypal-button textarea {
+border:none
+}
+
+.bbpress {
+width:100%
+}
+
+body.page-id-7945 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_booksPage_01.png)
+}
+
+body.page-id-7664 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_CoursesPage_03.png)
+}
+
+body.page-id-7537 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_InstructorPage_01.png)
+}
+
+body.page-id-7542 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_ProArtistGuide_02.png)
+}
+
+body.page-id-17 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_contactPage_01.png)
+}
+
+body.page-id-81 {
+background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_contactPage_01.png)
+}
+
+.bbp-forum-title {
+font-size:20px
+}
+
+#bbpress-forums .bbp-forum-info .bbp-forum-content,#bbpress-forums p.bbp-topic-meta {
+font-size:14px
+}
+
+.bbp-forum-link {
+font-size:16px
+}
+
+.centric-pro-landing .site-inner {
+max-width:850px
+}
+
+.page-id-9411 h1.entry-title {
+display:none
+}
+
+.page #comments,.page #respond {
+display:none
+}
+
+.page.logged-in #comments,.page.logged-in #respond {
+display:block
+}
+
+tbody {
+border-bottom:0
+}
+
+td {
+border-top:0;
+padding-right:30px;
+padding-left:30px;
+vertical-align:top
+}
+
+.page-id-10361 h1.entry-title {
+display:none
+}
+
+.bbpress #wp-link-wrap {
+height:auto;
+min-height:250px
+}
+
+/* LMS - dashboard frontpage */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a:before {
+content:'\e002';
+color:#0274be;
+display:inline-block;
+font-family:'dashicons';
+font-size:65px;
+font-weight:normal;
+line-height:1;
+margin-bottom:30px;
+vertical-align:top;
+-webkit-font-smoothing:antialiased
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10474 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10475 > a:before {
+content:'\f111'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10476 > a:before {
+content:'\f234'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10527 > a:before {
+content:'\f232'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10552 > a:before {
+content:'\f123'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10554 > a:before {
+content:'\f112'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10556 > a:before {
+content:'\f490'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10558 > a:before {
+content:'\f126'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10560 > a:before {
+content:'\f464'
+}
+
+/*LMS-the art of storyboard*/
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11716 > a:before {
+content:'\f330'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11581 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11583 > a:before {
+content:'\f115'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11587 > a:before {
+content:'\f163'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11589 > a:before {
+content:'\f232'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11595 > a:before {
+content:'\f128'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11600 > a:before {
+content:'\f218'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11602 > a:before {
+content:'\f235'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11605 > a:before {
+content:'\f118'
+}
+
+/*LMS GROUP TRAINEE SESSION*/
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11728 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11678 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11682 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11684> a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11686> a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-11733> a:before {
+content:'\f464'
+}
+
+/* LMS - TEST .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10820 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-10822 > a:before {
+content:'\f111'
+}
+
+*/
+/* LMS - dashboard list */
+.site-container .lms-dashboard {
+margin-bottom:20px
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a {
+display:block
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-course > a {
+display:none
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module {
+border:10px solid #fff;
+display:block;
+float:left;
+width:33.3%
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a {
+background:#f1f1f1;
+border:1px solid #f1f1f1;
+font-size:20px;
+line-height:1.25;
+min-height:250px;
+padding:40px;
+text-align:center
+}
+
+.courseware_item.courseware-module:nth-of-type(3n+1) {
+clear:left
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a:hover {
+border:1px solid #ddd
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a small {
+color:#aaa;
+display:block;
+font-size:14px;
+margin-bottom:20px
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-complete > a small {
+color:#fff
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-complete > a:hover {
+border:1px solid #00ae7b
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module > a .button {
+display:block;
+font-size:12px;
+margin:20px auto 0;
+padding:10px 5px 8px
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-complete > a .button {
+background:#A0CFE6;
+color:#5A6366
+}
+
+@media only screen and (max-width: 1024px) {
+.site-container .lms-dashboard ul.lms-list-items .courseware-module {
+width:50%
+}
+}
+
+@media only screen and (max-width: 600px) {
+.site-container .lms-dashboard ul.lms-list-items .courseware-module {
+width:100%
+}
+}
+
+/* LMS - list */
+body .site-container ul.lms-list-items ul,body .site-container ul.lms-list-items li,body .site-container ul.lms-list-items li a {
+background:none;
+margin:0;
+padding:0;
+border:none;
+text-align:left
+}
+
+body .site-container ul.lms-list-items .courseware-course > a {
+font-size:24px;
+line-height:1.2;
+margin-bottom:20px
+}
+
+body .site-container ul.lms-list-items .courseware-course > ul.children {
+margin-left:0
+}
+
+body .site-container ul.lms-list-items .courseware-course > ul.children:before {
+display:none
+}
+
+body .site-container ul.lms-list-items ul.children {
+margin-bottom:0;
+margin-top:0;
+padding:15px 0
+}
+
+body .site-container ul.lms-list-items ul.children:before {
+border-color:#ddd;
+left:-20px;
+top:0
+}
+
+body .site-container ul.lms-list-items .courseware-module > a {
+background:#fff;
+border:1px solid #ddd;
+font-size:15px;
+font-weight:700;
+padding:10px 15px
+}
+
+body .site-container ul.lms-list-items .courseware-lesson > a {
+font-size:13px;
+font-weight:bold;
+padding:5px 0;
+position:relative
+}
+
+body .site-container ul.lms-list-items .courseware-lesson > a:before {
+background:#ddd;
+border-radius:50%;
+content:'';
+display:block;
+left:-24px;
+position:absolute;
+top:11px;
+height:9px;
+width:9px
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.current_courseware_item > a:before {
+background:#333
+}
+
+body .site-container ul.lms-list-items .courseware-course > a:hover,body .site-container ul.lms-list-items .courseware-module > a:hover,body .site-container ul.lms-list-items .courseware-lesson > a:hover,body .site-container ul.lms-list-items .courseware-lesson.current_courseware_item > a {
+background:none;
+color:#333
+}
+
+body .site-container ul.lms-list-items .courseware-module > a:hover {
+background:#fff
+}
+
+body .site-container ul.lms-list-items .courseware-module.current_courseware_item > a {
+background:#333;
+border-color:#333;
+color:#fff
+}
+
+body .site-container ul.lms-list-items li.courseware-module.current_courseware_item > a em,body .site-container ul.lms-list-items li.courseware-complete > a em {
+color:#fff
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a {
+color:#00ae7b
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a:before {
+background:#fff;
+height:20px;
+top:4px
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a .lms-item-complete {
+position:absolute;
+left:-31px;
+top:0
+}
+
+body .site-container ul.lms-list-items .courseware-module.courseware-complete > a {
+background:#85E0FF;
+border-color:#85E0FF;
+color:#fff
+}
+
+body .site-container ul.lms-list-items .courseware-module.courseware-complete > a .lms-item-complete {
+line-height:26px
+}
+
+body .site-container ul.lms-list-items li a .lms-item-favorite:before {
+margin-top:3px
+}
+
+/* Keep header logo image from shrinking */
+.site-header.shrink .wrap {
+padding:5px 40px 0;
+min-height:80px
+}
+
+.header-image .shrink .site-title > a {
+min-height:80px
+}
+
+.shrink .site-title a {
+background-size:360px 80px!important
+}
+
+/* adjust page title font size */
+.page-title .archive-title,.page-title .entry-title {
+font-size:40px
+}
+
+/* adjust padding on header area */
+.site-header .wrap {
+padding:20px 0 0!important
+}
+
+#bbp_search {
+height:50px
+}
+
+/* adjust dashicon for Tony Santo Course */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13228 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13247 > a:before {
+content:'\f119'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13249 > a:before {
+content:'\f322'
+}
+
+/* adjust dashicon for Story trainee Course */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13603 > a:before {
+content:'\f330'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13608 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13619 > a:before {
+content:'\f119'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13614 > a:before {
+content:'\f322'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-13617 > a:before {
+content:'\f338'
+}
+
+/* adjust title for LMS courses */
+.entry-title {
+text-align:center;
+color:#47D1FF
+}
