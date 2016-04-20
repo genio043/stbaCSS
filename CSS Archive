@@ -691,3 +691,28 @@ content:'\f330'
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-14379 > a:before {
 content:'\f118'
 }
+
+/* adjust dashicon for Advanced Story Group Workshop */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15115 > a:before {
+content:'\f330'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15116 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15117 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15118 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15119 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15120 > a:before {
+content:'\f118'
+}
