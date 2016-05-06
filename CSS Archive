@@ -230,12 +230,6 @@ border:none
 width:100%
 }
 
-/* TEST Leadpages */
-body.page-id-15247 {
-background:green;
-width:100%;
-}
-
 body.page-id-7945 {
 background-image:url(//storyboardart.org/wp-content/uploads/2015/06/Titlebar_booksPage_01.png)
 }
