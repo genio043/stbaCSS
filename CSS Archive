@@ -232,7 +232,8 @@ width:100%
 
 /* TEST Leadpages */
 body.page-id-15247 {
-background-color:rgba(255,0,4,1.00);
+background:green;
+width:100%;
 }
 
 body.page-id-7945 {
