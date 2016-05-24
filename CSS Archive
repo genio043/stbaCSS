@@ -719,9 +719,9 @@ content:'\f338'
 
 /* adjust dashicon for Story Artist Career Supercharge Course */
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15625 > a:before {
-content:'\f330'
+content:'\f118'
 }
 
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15626 > a:before {
-content:'\f330'
+content:'\f234'
 }
