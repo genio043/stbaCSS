@@ -204,8 +204,7 @@ width:700px
 }
 
 .site-header .widget-area {
-width:700px;
-padding:0
+width:900px
 }
 
 #nav-menu2 {
@@ -724,4 +723,17 @@ content:'\f234'
 
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-15626 > a:before {
 content:'\f118'
+}
+
+/* adjust free course menu button colors */
+.genesis-nav-menu .free-course-btn a {
+border-radius:5px;
+font-weight:bold;
+background:#ff9500!important;
+color:#fff!important
+}
+
+.genesis-nav-menu .free-course-btn > a:hover {
+color:#fff!important;
+background:#FF9546!important
 }
