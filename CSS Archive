@@ -737,3 +737,16 @@ color:#fff!important
 color:#fff!important;
 background:#FF9546!important
 }
+
+/* adjust dashicon for Drawing Training Sessions */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-16216 > a:before {
+content:'\f236'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-16217 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-16218 > a:before {
+content:'\f118'
+}
