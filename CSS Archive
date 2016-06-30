@@ -726,11 +726,22 @@ content:'\f118'
 }
 
 /* adjust free course menu button colors */
-.genesis-nav-menu .free-course-btn a {
+.genesis-nav-menu .free-course-btn > a {
 border-radius:5px;
 font-weight:bold;
+height:46px;
 background:#ff9500!important;
+padding:15px!important;
 color:#fff!important
+}
+
+/* my profile icon menu button*/
+.genesis-nav-menu .my-profile-iconbtn-menu > a {
+background-image:url(//storyboardart.org/wp-content/uploads/2016/06/myprofileicon.png);
+background-repeat:no-repeat;
+background-position:10px;
+color:#13afdf!important;
+width:64px
 }
 
 .genesis-nav-menu .free-course-btn > a:hover {
