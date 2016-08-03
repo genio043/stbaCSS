@@ -199,6 +199,14 @@ display:none
 display:block
 }
 
+.genesis-nav-menu .member-menu2 a {
+display:block
+}
+
+.logged-in .genesis-nav-menu .member-menu2 a {
+display:none
+}
+
 element.style {
 width:700px
 }
