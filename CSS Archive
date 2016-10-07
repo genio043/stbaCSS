@@ -109,6 +109,13 @@ ul.footer-links li:first-child {
 margin-left:0
 }
 
+/* Footer for mobile devices */
+@media only screen and (max-width: 980px) { {
+.footer-widgets-1, .footer-widgets-2, .footer-widgets-3 {margin-right: 0; width: 100%;}
+.alignleft.footer-links {float: none; text-align: center;}
+.alignright.social-icons {float: none; text-align: center;}
+}
+
 a .button {
 padding:5px;
 background-color:#dcdcdc;
@@ -634,6 +641,15 @@ min-height:80px
 
 .shrink .site-title a {
 background-size:360px 80px!important
+}
+
+/*shrinking mobile devices */
+@media only screen and (max-width: 980px) { {
+.site-header.shrink .wrap, .header-image .shrink .site-title > a {min-height: 60px;}
+.shrink .site-title a {background-size: 270px 60px !important;}
+.site-header .widget {margin-bottom: 0;}
+.header-image .bumper {min-height: 130px;}
+.sumome-share-client {display: none !important;}
 }
 
 /* adjust page title font size */
