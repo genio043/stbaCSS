@@ -1,3 +1,40 @@
+@media only screen and (max-width: 782px) {
+.site-header.shrink .wrap,.header-image .shrink .site-title > a {
+min-height:60px
+}
+
+.shrink .site-title a {
+background-size:270px 60px!important
+}
+
+.site-header .widget {
+margin-bottom:0
+}
+
+.header-image .bumper {
+min-height:130px
+}
+
+.sumome-share-client {
+display:none!important
+}
+
+.footer-widgets-1,.footer-widgets-2,.footer-widgets-3 {
+margin-right:0;
+width:100%
+}
+
+.alignleft.footer-links {
+float:none;
+text-align:center
+}
+
+.alignright.social-icons {
+float:none;
+text-align:center
+}
+}
+
 @media screen and (max-width: 1060px) {
 #primary {
 width:67%
@@ -136,22 +173,6 @@ padding-top:10px
 
 .footer-widgets .footer-widgets a {
 display:inline-block
-}
-
-/* Footer for mobile devices */
-@media only screen and (max-width: 980px) {
-{footer-widgets-1footer-widgets-2footer-widgets-3margin-right:0;
-width:100%
-}
-
-.alignleft.footer-links {
-float:none;
-text-align:center
-}
-
-.alignright.social-icons {
-float:none;
-text-align:center
 }
 
 .social-icons li {
@@ -644,27 +665,6 @@ min-height:80px
 background-size:360px 80px!important
 }
 
-/*shrinking mobile devices */
-@media only screen and (max-width: 980px) {
-{site-headershrinkwrapheader-imageshrinksite-titleamin-height:40px
-}
-
-.shrink .site-title a {
-background-size:270px 40px!important
-}
-
-.site-header .widget {
-margin-bottom:0
-}
-
-.header-image .bumper {
-min-height:100px
-}
-
-.sumome-share-client {
-display:none!important
-}
-
 /* adjust page title font size */
 .page-title .archive-title,.page-title .entry-title {
 font-size:40px
@@ -764,9 +764,9 @@ content:'\f118'
 
 /* adjust free course menu button colors */
 .genesis-nav-menu .free-course-btn > a {
-border-radius:5px;
-font-weight:bold;
-height:46px;
+border-radius:5px!important;
+font-weight:bold!important;
+height:46px!important;
 background:#ff9500!important;
 padding:15px!important;
 color:#fff!important
