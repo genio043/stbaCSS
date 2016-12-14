@@ -807,3 +807,21 @@ content:'\f118'
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-17709 > a:before {
 content:'\f464'
 }
+
+/* adjust dashicon for Best of 2016 Courses */
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-18430 > a:before {
+content:'\f236'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-18431 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-18432 > a:before {
+content:'\f118'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-18433 > a:before {
+content:'\f322'
+}
