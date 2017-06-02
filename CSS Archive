@@ -828,3 +828,40 @@ content:'\f464'
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-18433 > a:before {
 content:'\f119'
 }
+
+/* adjust dashicon for Networking Course LMS */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19582 > a:before {
+content:'\f465'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19583 > a:before {
+content:'\f330'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19584 > a:before {
+content:'\f497'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19585 > a:before {
+content:'\f119'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19586 > a:before {
+content:'\f116'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19587 > a:before {
+content:'\f118'
+}
+
+/* adjust dashicon for Spyros */
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19622 > a:before {
+content:'\f118'
+}
+
+/* adjust dashicon for Jerome */
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19613 > a:before {
+content:'\f118'
+}
