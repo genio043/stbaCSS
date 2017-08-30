@@ -784,6 +784,16 @@ color:#13afdf!important;
 width:64px
 }
 
+/* logo STBA menu button */
+.genesis-nav-menu .stba-logo-iconbtn-menu > a {
+background-image:url(//storyboardart.org/wp-content/uploads/2017/08/stbalogosmall.png);
+background-repeat:no-repeat;
+background-position:10px;
+color:#13afdf!important;
+width:109px;
+height:72px
+}
+
 .genesis-nav-menu .free-course-btn > a:hover {
 color:#fff!important;
 background:#FF9546!important
