@@ -1,7 +1,21 @@
+.wp-social-login-connect-or span {
+display: none !important;
+}
+.wp-social-login-widget {
+    display: none !important;
+}
+
+.hrpost {
+padding:0px 0px !important;
+color:#000;
+border:1 !important;
+}
+
 @media only screen and (max-width: 782px) {
 .site-header.shrink .wrap,.header-image .shrink .site-title > a {
 min-height:60px
 }
+
 
 .shrink .site-title a {
 background-size:270px 60px!important
@@ -34,6 +48,7 @@ float:none;
 text-align:center
 }
 }
+
 .content-sidebar .content {
     padding-left: 4% !important;
 }
@@ -58,10 +73,12 @@ body {
 font-size:1.2rem
 }
 }
-
 */
+
 @media (min-width:1100px) {
+body {
 bodyfont-size:1.5rem
+}
 }
 
 @media only screen
@@ -95,7 +112,6 @@ height:20px
 list-style-type:none;
 margin:10px;
 padding:30px;
-list-style-type:none
 }
 
 #navcontainer ul li {
@@ -245,6 +261,35 @@ display:block
 
 .logged-in .genesis-nav-menu .member-menu2 a {
 display:none
+}
+
+/* blog post */
+/*.blog-images .entry-header, .blog-images .entry-content p, entry-content .entry-meta { display: none;}
+.page-id-19 .entry-content > a { display: none;}*/
+.pagination-previous.alignleft {
+text-align:left !important;
+}
+.pagination-previous.alignleft a:before{
+content:"Previous - " !important;
+}
+.pagination-next.alignright a:after{
+content:" - Next"  !important;
+}
+/* menu vertical line */
+#menu-new-home-menu {
+ font-weight: bold;
+}
+
+
+/*end menu line */ 
+
+/* home widget 1 width */
+.home-featured .wrap {
+    margin-top: -160px;
+   width: 100% !important;
+    max-width: 100% !important;
+    display: table;
+    text-align: center;
 }
 
 element.style {
