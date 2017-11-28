@@ -920,3 +920,16 @@ content:'\f118'
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-19613 > a:before {
 content:'\f118'
 }
+
+/* adjust dashicon for Drawing & Portfolio Private Group */
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-21434 > a:before {
+content:'\f236'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-21435 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-21436 > a:before {
+content:'\f118'
+}
