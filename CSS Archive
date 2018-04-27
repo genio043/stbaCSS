@@ -933,3 +933,11 @@ content:'\f464'
 .site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-21436 > a:before {
 content:'\f118'
 }
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-23108 > a:before {
+content:'\f464'
+}
+
+.site-container .lms-dashboard ul.lms-list-items .courseware-module.courseware-item-23111 > a:before {
+content:'\f118'
+}
